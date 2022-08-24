@@ -1,5 +1,7 @@
 # I`m a junior frontend developer
 
+I am actively looking for a job
+
 ## Languages and tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
