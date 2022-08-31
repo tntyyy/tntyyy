@@ -18,7 +18,7 @@ I am actively looking for a job 👀
 ![MongoDB](https://img.shields.io/badge/-mongoDb-090909?style=for-the-badge&logo=mongodb)
 
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-gitub-090909?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)
 
 ![Webpack](https://img.shields.io/badge/-webpack-090909?style=for-the-badge&logo=webpack)
 ![Docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
