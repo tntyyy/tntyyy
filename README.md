@@ -29,8 +29,6 @@ I am actively looking for a job 👀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tntyyy&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tntyyy&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Codewars:
 
 ![CodeWars](https://www.codewars.com/users/tnty/badges/large)
