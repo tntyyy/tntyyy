@@ -24,10 +24,6 @@ I am actively looking for a job 👀
 ![Docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
 ![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma)
 
-### Stats:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tntyyy&show_icons=true&theme=tokyonight)
-
 ### Codewars:
 
 ![CodeWars](https://www.codewars.com/users/tnty/badges/large)
