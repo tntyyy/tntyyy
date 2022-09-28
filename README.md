@@ -15,7 +15,7 @@ I am actively looking for a job 👀
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
 
 ![Nodejs](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
-![postgresql](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql)
 
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)
