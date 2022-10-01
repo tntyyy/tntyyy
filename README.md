@@ -18,8 +18,6 @@ I am actively looking for a job 👀
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql)
 
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)
-
 ![Webpack](https://img.shields.io/badge/-webpack-090909?style=for-the-badge&logo=webpack)
 ![Docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
 ![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma)
