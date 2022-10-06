@@ -1,6 +1,6 @@
 # I`m a frontend developer
 
-I`m actively looking for a job 👀
+I`m actively looking for a job
 
 ## Languages and tools:
 
