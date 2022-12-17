@@ -1,7 +1,3 @@
-# I`m a frontend developer
-
-I`m actively looking for a job
-
 ## Languages and tools:
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html)
