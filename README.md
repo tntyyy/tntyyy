@@ -7,7 +7,7 @@
 ![React Query](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=react-query)
 
 ![Nodejs](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
-![Nodejs](https://img.shields.io/badge/Nestjs-ea2845?style=flat&logo=nestjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/nestjs-090909?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql)
 
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
