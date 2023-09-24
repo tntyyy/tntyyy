@@ -14,7 +14,3 @@
 ![Webpack](https://img.shields.io/badge/-webpack-090909?style=for-the-badge&logo=webpack)
 ![Docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
 ![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma)
-
-### Codewars:
-
-![CodeWars](https://www.codewars.com/users/tnty/badges/large)
