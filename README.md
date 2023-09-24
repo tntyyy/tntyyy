@@ -4,7 +4,7 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
-![React Query](https://img.shields.io/badge/-React-Query-090909?style=for-the-badge&logo=react-query)
+![React Query](https://img.shields.io/badge/-ReactQuery-090909?style=for-the-badge&logo=react-query)
 
 ![Nodejs](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
 ![Nodejs](https://img.shields.io/badge/nestjs-090909?style=for-the-badge&logo=nestjs&logoColor=white)
